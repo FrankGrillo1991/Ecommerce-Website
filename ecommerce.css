@@ -269,3 +269,11 @@ footer {
     flex-wrap: wrap;
 }
 
+.social-media a {
+    color: white;
+    margin: 20px;
+    border-radius: 5px;
+    margin-top: 10px;
+    color: white;
+}
+
