@@ -318,3 +318,19 @@ footer {
     justify-content: center;
 }
 
+.footer2 .heading:hover {
+    color: rgb(243, 168, 7);
+}
+
+.footer2 .div:hover {
+    transform: scale(1.05);
+}
+
+.menu {
+    visibility: hidden;
+}
+
+.heading1 .ham:active {
+    color: red;
+}
+
