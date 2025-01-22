@@ -109,3 +109,49 @@ header a ion-icon {
     height: 720px;
     width: 1000px;
 }
+
+@keyframes slide {
+    0% {
+        left: 0px;
+    }
+
+    15% {
+        left: 0px;
+    }
+
+    20% {
+        left: -1000px;
+    }
+
+    32% {
+        left: -1000px;
+    }
+
+    35% {
+        left: -2160px;
+    }
+
+    47% {
+        left: -2160px;
+    }
+
+    50% {
+        left: -3240px;
+    }
+
+    63% {
+        left: -3240px;
+    }
+
+    66% {
+        left: -4320px;
+    }
+
+    79% {
+        left: -4320px;
+    }
+
+    100% {
+        left: 0px;
+    }
+}
