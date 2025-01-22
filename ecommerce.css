@@ -13,3 +13,7 @@ header {
     background: black;
 }
 
+.heading ul {
+    display: flex;
+}
+
