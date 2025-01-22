@@ -172,3 +172,8 @@ header a ion-icon {
     opacity: 0;
 }
 
+.search {
+    display: flex;
+    position: relative;
+}
+
