@@ -212,3 +212,12 @@ header a ion-icon {
     margin: 0;
 }
 
+.section2 .container .items .price {
+    float: left;
+    padding-left: 10px;
+    display: block;
+    width: 100%;
+    color: rgb(255, 0, 0);
+    font-weight: 650;
+}
+
