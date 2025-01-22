@@ -155,3 +155,16 @@ header a ion-icon {
         left: 0px;
     }
 }
+
+.img-slider {
+    display: flex;
+    float: left;
+    position: relative;
+    width: 1000px;
+    height: 720px;
+    animation-name: slide;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    transition-duration: 2s;
+}
+
