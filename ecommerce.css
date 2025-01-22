@@ -334,3 +334,12 @@ footer {
     color: red;
 }
 
+.items {
+    overflow: hidden;
+}
+
+.ham, 
+.close {
+    cursor: pointer;
+}
+
