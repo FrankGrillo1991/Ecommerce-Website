@@ -185,3 +185,12 @@ header a ion-icon {
     margin: 0px auto;
 }
 
+.section2 .container {
+    display: flex;
+    width: 100%;
+    height: max-content;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 10px auto;
+}
+
