@@ -296,3 +296,12 @@ footer {
     flex-wrap: wrap;
 }
 
+.footer0 {
+    font-weight: 1200;
+    transition-duration: 1s;
+}
+
+.footer0:hover {
+    color: rgb(243, 168, 7);
+}
+
