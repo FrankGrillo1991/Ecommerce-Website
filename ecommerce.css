@@ -221,3 +221,8 @@ header a ion-icon {
     font-weight: 650;
 }
 
+.section2 .container .items .info {
+    padding-left: 10px;
+    color: rgb(243, 168, 7);
+}
+
