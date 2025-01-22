@@ -246,3 +246,11 @@ header a ion-icon {
     border-radius: 12px;
 }
 
+footer {
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    align-items: center;
+    color: white;
+}
+
