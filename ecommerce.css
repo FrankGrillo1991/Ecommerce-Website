@@ -287,3 +287,12 @@ footer {
     transform: translateY(5px);
 }
 
+.footer2 {
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    align-items: center;
+    text-decoration: none;
+    flex-wrap: wrap;
+}
+
