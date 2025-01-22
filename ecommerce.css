@@ -277,3 +277,13 @@ footer {
     color: white;
 }
 
+.social-media a ion-icon {
+    color: white;
+    background-color: black;
+}
+
+.social-media a:hover ion-icon {
+    color: red;
+    transform: translateY(5px);
+}
+
