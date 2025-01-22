@@ -100,3 +100,8 @@ ion-icon:hover {
     display: flex;
 }
 
+header a ion-icon {
+    position: relative;
+    right: 3px;
+}
+
