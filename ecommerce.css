@@ -177,3 +177,11 @@ header a ion-icon {
     position: relative;
 }
 
+.section1 {
+    width: 1000px;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+    margin: 0px auto;
+}
+
