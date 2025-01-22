@@ -85,3 +85,18 @@ header {
     text-decoration: none;
 }
 
+ion-icon {
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    color: black;
+}
+
+ion-icon:hover {
+    cursor: pointer;
+}
+
+.search a {
+    display: flex;
+}
+
