@@ -53,3 +53,14 @@ header {
     transition-duration: 1s;
 }
 
+.heading ul li a::before {
+    content: "";
+    height: 2px;
+    width: 0px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    background-color: white;
+    transition-duration: 1s;
+}
+
