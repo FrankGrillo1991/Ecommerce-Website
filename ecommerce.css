@@ -203,3 +203,12 @@ header a ion-icon {
     border-radius: 12px;
 }
 
+.section2 .container .items .name {
+    text-align: center;
+    background-color: rgb(240, 197, 6);
+    height: 25px;
+    padding-top: 4px;
+    color: white;
+    margin: 0;
+}
+
