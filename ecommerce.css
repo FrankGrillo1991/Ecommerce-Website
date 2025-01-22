@@ -28,3 +28,7 @@ header {
     transition-duration: 1s;
 }
 
+.heading ul li {
+    list-style: none;
+}
+
