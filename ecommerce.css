@@ -44,3 +44,12 @@ header {
     transition-duration: 1s;
 }
 
+.heading ul li a:active {
+    color: red;
+}
+
+.heading ul li a:hover {
+    color: rgb(243, 168, 7);
+    transition-duration: 1s;
+}
+
