@@ -105,3 +105,7 @@ header a ion-icon {
     right: 3px;
 }
 
+.img-slider img {
+    height: 720px;
+    width: 1000px;
+}
