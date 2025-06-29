@@ -139,6 +139,14 @@ header a ion-icon {
     margin-top: 8px;
 }
 
+.product-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+    justify-content: center;
+    margin: 32px 0;
+}
+
 @keyframes slide {
     0% {
         left: 0px;
