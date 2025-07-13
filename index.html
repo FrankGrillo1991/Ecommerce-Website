@@ -401,5 +401,28 @@
     </section>
     <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
     <script src="ecommerce.js"></script>
+    <script>
+  // list of featured product names
+  const featuredProducts = ['Headphones', 'T-shirt'];
+
+  // find all product cards
+  document.querySelectorAll('.product-card').forEach(card => {
+    const title = card.querySelector('h3').innerText.trim();
+
+    if (featuredProducts.includes(title)) {
+      // add featured class
+      card.classList.add('featured');
+
+      // create badge
+      const badge = document.createElement('span');
+      badge.classList.add('badge');
+      badge.innerText = 'Featured';
+
+      // insert badge
+      card.appendChild(badge);
+    }
+  });
+</script>
+
 </body>
 </html>
